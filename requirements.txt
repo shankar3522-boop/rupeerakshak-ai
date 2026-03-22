@@ -1,0 +1,1 @@
+fastapi==0.95.1\nasyncpg==0.27.0\nredis==4.5.5\nhttpx==0.24.0\npython-dotenv==1.0.0\nuvicorn==0.21.1\nsqlalchemy==2.0.5\nasyncio==3.4.3\naiohttp==3.8.5\ngino==1.0.0\nmain==0.0.1\n
